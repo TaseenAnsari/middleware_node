@@ -1,0 +1,7 @@
+{
+    "name": "middleware-dev",
+    "host": "localhost",
+    "user": {
+        "id":"user"
+    }
+}

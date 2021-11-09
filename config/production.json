@@ -1,0 +1,7 @@
+{
+    "name": "middleware-prod",
+    "host": "host-prod",
+    "user": {
+        "id":"user"
+    }
+}
